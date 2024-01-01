@@ -1,7 +1,7 @@
-Hi 👋 My name is Pete
+Hey! 👋 My name is Pete.
 =====================
 
-MERN Stack Developer
+I'm a MERN Stack Developer
 --------------------
 
 Specializing in full stack MERN/React application development
