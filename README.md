@@ -12,7 +12,7 @@ Specializing in full stack MERN/React application development
 * 🚀  I'm currently working on [Gigpromoter](http://www.gigpromoter.com)
 * 🧠  I'm learning programming/interview challenge skills @Leetcode/Codewars
 * 🤝  I'm open to collaborating on new and existing MERN stack web applications
-* * ⚡  Check out my music at [peterciluzzi.com](http://www.peterciluzzi.com)
+* ⚡  Check out my music at [peterciluzzi.com](http://www.peterciluzzi.com)
 
 ### Skills
 
