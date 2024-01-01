@@ -7,7 +7,7 @@ I'm a MERN Stack Developer
 Specializing in full stack MERN/React application development
 
 * 🌍  I'm based in Greater Boston Area, Massachusetts
-* 🖥️  See my portfolio at <a href="http://www.peterciluzzi.com" target="_blank">peterciluzzi.dev</a>
+* 🖥️  See my portfolio at <a href="http://www.peterciluzzi.com" target="_blank" rel="noopener noreferrer">peterciluzzi.dev</a>
 * ✉️  You can contact me at [peter@peterciluzzi.dev](mailto:peter@peterciluzzi.dev)
 * 🚀  I'm currently working on [Gigpromoter](http://www.gigpromoter.com)
 * 🧠  I'm learning programming/interview challenge skills @Leetcode/Codewars
