@@ -9,10 +9,14 @@ Specializing in full stack MERN/React application development
 * 🌍  I'm based in Greater Boston Area, Massachusetts
 * 🖥️  See my portfolio at [peterciluzzi.dev](http://www.peterciluzzi.dev)
 * ✉️  You can contact me at [peter@peterciluzzi.dev](mailto:peter@peterciluzzi.dev)
-* 🚀  I'm currently working on [Gigpromoter](http://www.gigpromoter.com)
-* 🧠  I'm learning programming/interview challenge skills @Leetcode/Codewars
-* 🤝  I'm open to collaborating on new and existing MERN stack web applications
+
+* 🧠  I'm currently practicing programming/interview challenge skills at Leetcode & Codewars
+* 🤝  I'm interested in collaborating on new and existing MERN stack web applications
 * ⚡ Check out my music at [peterciluzzi.com](http://www.peterciluzzi.com)
+
+### Projects
+
+* 🚀  Based on my experiences as a musician and performer, I created [Gigpromoter](http://www.gigpromoter.com) - a Node/Express application that helps new artists learn how to plan, manage, and promote live events. [www.gigpromoter.com](http://www.gigpromoter.com)
 
 ### Skills
 
