@@ -10,12 +10,12 @@ Specializing in full stack MERN/React application development
 * 🖥️  See my portfolio at [peterciluzzi.dev](http://www.peterciluzzi.dev)
 * ✉️  You can contact me at [peter@peterciluzzi.dev](mailto:peter@peterciluzzi.dev)
 * 🧠  I'm currently practicing programming/interview challenge skills at Leetcode & Codewars
-* 🤝  I'm interested in collaborating with new and existing teams on current and future MERN stack web applications
+* 🤝  I'm interested in collaborating on new and existing MERN stack web applications
 * ⚡ Check out my music at [peterciluzzi.com](http://www.peterciluzzi.com)
 
 ### Projects
 
-* 🚀  Based on my experiences as a musician and performer, I created [Gigpromoter](http://www.gigpromoter.com) - a Node/Express application that helps new artists learn how to plan, manage, and promote live events. [www.gigpromoter.com](http://www.gigpromoter.com)
+* 🚀  Based on my experiences as a musician and performer, I created [Gigpromoter](http://www.gigpromoter.com) - a Node/Express application that helps new artists learn how to plan, manage, and promote live events
 
 ### Skills
 
