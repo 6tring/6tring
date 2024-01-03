@@ -10,7 +10,7 @@ Specializing in full stack MERN/React application development
 * 🖥️  See my portfolio at [peterciluzzi.dev](http://www.peterciluzzi.dev)
 * ✉️  You can contact me at [peter@peterciluzzi.dev](mailto:peter@peterciluzzi.dev)
 * 🧠  I'm currently practicing programming/interview challenge skills at Leetcode & Codewars
-* 🤝  I'm interested in collaborating on new and existing MERN stack web applications
+* 🤝  I'm currently looking for work and am interested in collaborating on new and existing MERN stack web applications
 * ⚡ Check out my music at [peterciluzzi.com](http://www.peterciluzzi.com)
 
 ### Projects
