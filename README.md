@@ -1,4 +1,4 @@
-Hi! 👋 I'm Pete.
+Hi 👋 I'm Pete.
 =====================
 
 I'm a MERN Stack Developer.
