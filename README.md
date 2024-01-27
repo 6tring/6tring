@@ -15,7 +15,7 @@ Specializing in full stack MERN/React application development
 
 ### Projects
 
-* 🚀  Based on my experiences as a musician and performer, I created [Gigpromoter](http://www.gigpromoter.com) - a Node/Express application that helps new artists learn how to plan, manage, and promote live events. (Because Gigpromoter is currently in production, the repo is private - but I have created a public repo to share selected files below)
+* 🚀  Based on my experiences as a musician and performer, I created [Gigpromoter](http://www.gigpromoter.com) - a Node/Express application that helps new artists learn how to plan, manage, and promote live events. (Because Gigpromoter is currently in production, the repo is private - but I have created the public repo automated-emails to share selected files below)
 
 ### Skills
 
