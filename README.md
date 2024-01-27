@@ -12,6 +12,7 @@ Specializing in full stack MERN/React application development
 * 🧠  I'm currently practicing programming/interview challenge skills at Leetcode & Codewars
 * 🤝  I'm currently looking for work and am interested in collaborating on new and existing MERN stack web applications
 * ⚡ Check out my music at [peterciluzzi.com](http://www.peterciluzzi.com)
+* [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 ### Projects
 
