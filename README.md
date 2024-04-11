@@ -16,6 +16,8 @@ Specializing in full stack MERN/React application development
 ### Projects
 
 * 🚀  Based on my experiences as a musician and performer, I created [Gigpromoter](http://www.gigpromoter.com) - a Node/Express application that helps new artists learn how to plan, manage, and promote live events. (Because Gigpromoter is currently in production, the repo is private - but I have created the public repo `automated-emails` to share selected files below)
+* 🎸 Guitar Chord Finder - React SPA that uses the Uberchord API and manages state with useContext() and useReducer() - see repo below
+* 🗺 Event Flyering Locator - React SPA that uses the Google Maps API and manages state with Redux-Toolkit - see repo below
 
 ### Skills
 
