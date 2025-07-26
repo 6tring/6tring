@@ -4,7 +4,7 @@ Hi 👋 I'm Pete.
 I'm a Full Stack Developer.
 --------------------
 
-Specializing in full stack MERN/React application development
+Specializing in full stack JavaScript/React/Express application development
 
 * 🌍  I'm based in Greater Boston Area, Massachusetts
 * 🖥️  See my portfolio at [peterciluzzi.dev](http://www.peterciluzzi.dev)
