@@ -1,7 +1,7 @@
 Hi 👋 I'm Pete.
 =====================
 
-I'm a MERN Stack Developer.
+I'm a Full Stack Developer.
 --------------------
 
 Specializing in full stack MERN/React application development
