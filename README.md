@@ -9,7 +9,7 @@ Specializing in full stack JavaScript/React/Express application development
 * 🌍  I'm based in Greater Boston Area, Massachusetts
 * 🖥️  See my portfolio at [peterciluzzi.dev](http://www.peterciluzzi.dev)
 * ✉️  You can contact me at [peter@peterciluzzi.dev](mailto:peter@peterciluzzi.dev)
-* 🧠  I'm currently building and maintaining internal tools for EPM data ingestion, validation, mapping, and metadata governance that streamline OneStream implementations
+* 🧠  I'm currently building and maintaining internal tools for EPM data ingestion, validation, mapping, and metadata governance
 * 🤝  I'm currently looking for work and am interested in collaborating on new and existing applications
 * ⚡ Check out my music at [peterciluzzi.com](http://www.peterciluzzi.com)
 
