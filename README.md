@@ -1,7 +1,7 @@
 Hi 👋 I'm Pete.
 =====================
 
-I'm a Full Stack Developer.
+I'm a Full Stack Software Engineer.
 --------------------
 
 Specializing in full stack JavaScript/React/Express application development
