@@ -15,7 +15,7 @@ Specializing in full stack JavaScript/React/Express application development
 
 ### Projects
 
-* ⚛️ I was part of a team that built Track-React, an open-source developer tool and Chrome DevTools extension that helps developers visualize, debug, and better understand async flows in their React apps. Learn more at https://github.com/6tring/track-react
+* ⚛️ I was part of a team that built Track-React, an open-source developer tool and Chrome DevTools extension that helps developers visualize, debug, and better understand async flows in their React apps. Learn more at [github.com/6tring/track-react](https://github.com/6tring/track-react)
 * 🚀  Based on my experiences as a musician and performer, I created [Gigpromoter](https://www.gigpromoter.com) - a Node/Express application that helps new artists learn how to plan, manage, and promote live events. (Because Gigpromoter is currently in production, the repo is private - but I have created the public repo `automated-emails` to share selected files below)
 * 🗺 Event Flyering Locator - React SPA that uses the Google Maps API and manages state with Redux-Toolkit. The deployed build version can be viewed at [flyering-locator-app.peterciluzzi.dev](https://flyering-locator-app.peterciluzzi.dev) or see repo below to view files
 * 🎸 Guitar Chord Finder - React SPA that uses the Uberchord API and manages state with the context API. The deployed build version can be viewed at [chord-finder-app.peterciluzzi.dev](https://chord-finder-app.peterciluzzi.dev) or see repo below to view files
