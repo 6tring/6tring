@@ -20,7 +20,7 @@ Specializing in full stack TypeScript/React/Node application development
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,materialui,bootstrap,nodejs,express,mongodb,postgres,vite,webpack,babel,git,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,materialui,bootstrap,nodejs,express,mongodb,postgres,jest,vitest,vite,webpack,babel,git,github,docker,aws,heroku)](https://skillicons.dev)
 
 ### Socials
 
